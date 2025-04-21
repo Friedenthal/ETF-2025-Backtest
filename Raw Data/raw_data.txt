@@ -1,0 +1,2 @@
+ETF_PriceFile_2017_to_2025.csv --> Total Return Index Gross DVDS between 12/30/2016 & 03/12/2025
+

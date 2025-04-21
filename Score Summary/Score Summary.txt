@@ -1,0 +1,11 @@
+
+df_score_summary_new_reg.csv --> Columns: Date, Ticker, Slope, Cheapness, RSQ weighted Reg Price, RSQ weighted Nominal Slope, Combined Term 2
+# New Regression dates
+# Only Cheapness & Combined Term 2 have been averaged for the 10-regression dates
+# Combined Score = Cheapness +  days_offset * Combined Term 2
+
+
+df_score_summary_old_reg.csv --> Columns: Date, Ticker, Slope, Cheapness, RSQ weighted Reg Price, RSQ weighted Nominal Slope, Combined Term 2
+# Old Regression dates
+# Only Cheapness & Combined Term 2 have been averaged for the 24-regression dates;
+# Combined Score = Cheapness  + <32> * Combined Term 2
